@@ -40,8 +40,8 @@ Food[] breakfast = new Food[20];
 
 
         Cheese cheese = new Cheese();
-        Apple apple = new Apple("");
-        Tea tea = new Tea("");
+        Apple apple = new Apple("большое");
+        Tea tea = new Tea("Черный");
 
         int[] counts = new int[3];
 
